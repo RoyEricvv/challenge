@@ -3,7 +3,7 @@ we can use AWS Lambda function, S3 and RDS
 1. Create a RDS (Mysql)
    use a script in your DB
 2. Create a Bucket (S3)
-   Upload a file of S3
+   Upload the files to S3
 3. Create a lambda function
    
 3.1 Install pymysql using pip on your local machine
