@@ -15,4 +15,5 @@ cd mi_entorno_virtual\Lib\site-packages
 zip -r pymysql.zip pymysql
 ```
 3.2 Create a layer with the zip created in the before step
+
 3.3 Copy a code of lambda_handler.py
