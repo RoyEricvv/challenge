@@ -7,10 +7,10 @@ from datetime import datetime
 
 # Configura las credenciales y detalles de la base de datos MySQL RDS
 db_config = {
-    "host": "challenge-1.chqyrfmnsyyz.us-east-1.rds.amazonaws.com",
-    "user": "admin",
-    "password": "challengeaws",
-    "db": "challenge",
+    "host": "",
+    "user": "",
+    "password": "",
+    "db": "",
 }
 
 s3Cliente = boto3.client('s3')
